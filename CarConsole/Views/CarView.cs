@@ -4,7 +4,7 @@ using CarConsole.Models;
 
 namespace CarConsole.Views
 {
-    class CarView
+    class CarView : Object
     {
         CarViewModel _CarViewModel;
 
