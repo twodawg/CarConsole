@@ -14,8 +14,8 @@ namespace CarConsole.Models
             _passengers = new List<string>();
         }
 
-        public string Model { get; set; }
-        public int Doors { get; set; }
+        public string Model { get; private set; }
+        public int Doors { get; private set; }
 
         public int Wheels
         {

@@ -3,3 +3,8 @@ C:\projects\CarConsole\CarConsole\bin\Debug\CarConsole.exe
 C:\projects\CarConsole\CarConsole\bin\Debug\CarConsole.pdb
 C:\projects\CarConsole\CarConsole\obj\Debug\CarConsole.exe
 C:\projects\CarConsole\CarConsole\obj\Debug\CarConsole.pdb
+C:\projects\Github\CarConsole\CarConsole\obj\Debug\CarConsole.exe
+C:\projects\Github\CarConsole\CarConsole\obj\Debug\CarConsole.pdb
+C:\projects\Github\CarConsole\CarConsole\bin\Debug\CarConsole.exe
+C:\projects\Github\CarConsole\CarConsole\bin\Debug\CarConsole.pdb
+C:\projects\Github\CarConsole\CarConsole\obj\Debug\CarConsole.csprojResolveAssemblyReference.cache
