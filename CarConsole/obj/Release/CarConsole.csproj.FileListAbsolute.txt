@@ -1,0 +1,4 @@
+C:\projects\CarConsole\CarConsole\bin\Release\CarConsole.exe
+C:\projects\CarConsole\CarConsole\bin\Release\CarConsole.pdb
+C:\projects\CarConsole\CarConsole\obj\Release\CarConsole.exe
+C:\projects\CarConsole\CarConsole\obj\Release\CarConsole.pdb
